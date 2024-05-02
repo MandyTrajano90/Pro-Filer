@@ -8,7 +8,7 @@ def show_deepest_file(context):
         deepest_file = max(
             context["all_files"],
             key=lambda x: len(x.split("/"))
-            )
+        )
         print(f"Deepest file: {deepest_file}")
 
 
