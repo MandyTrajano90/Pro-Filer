@@ -1,5 +1,3 @@
-"""Arquivo que estudantes não devem editar"""
-
 from datetime import date
 import filecmp
 import itertools

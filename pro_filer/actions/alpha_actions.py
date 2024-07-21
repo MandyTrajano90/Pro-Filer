@@ -1,5 +1,3 @@
-"""Arquivo que estudantes não devem editar"""
-
 import os
 
 
